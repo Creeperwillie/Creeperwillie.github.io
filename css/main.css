@@ -28,9 +28,9 @@ ul#menu {
     padding: 16px;
   display: block;
 }
-li a:hover {
+li a:hover::after {
   color:#04F2FD;
 }
-li a:active {
+li a:active::after {
   color:#290673;
 }
