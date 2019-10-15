@@ -28,9 +28,13 @@ ul#menu {
     padding: 16px;
   display: block;
 }
-a:hover::after {
-  color:#04F2FD;
+li a:hover {
+  background-color: #111111;
 }
-a:active::after {
-  color:#290673;
+  a:visited { 
+    color: purple; 
+  }
+  
+  a:active {
+  color: green;
 }
