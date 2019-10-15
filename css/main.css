@@ -10,19 +10,19 @@ h1 {
 .info {
   color:#003366
 }
-ul#menu {
+ul.menu {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: #1F41AC;
 }
-#menu li a{
+.menu li a{
   float: left;
   color: #003366;
 }
 
-#menu li a {
+.menu li a {
   text-align: center;
   text-decoration: none;
     padding: 16px;
