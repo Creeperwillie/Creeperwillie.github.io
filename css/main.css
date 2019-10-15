@@ -10,17 +10,7 @@ h1 {
 .info {
   color:#003366
 }
-.menu li a{
-  float: left;
-  color: #003366;
-}
-
-.menu li a {
-  text-align: center;
-  text-decoration: none;
-    padding: 16px;
-}
-li a:hover {
+  a:hover {
   background-color: #111111;
 }
   a:visited { 
