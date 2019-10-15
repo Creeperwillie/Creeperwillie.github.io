@@ -27,8 +27,8 @@ ul#menu {
   text-decoration: none;
 }
 li a:hover {
-  color:red
+  color:red;
 }
 li a:active {
-  color:blue
+  color:blue;
 }
