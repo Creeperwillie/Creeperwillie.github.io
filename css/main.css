@@ -10,9 +10,6 @@ h1 {
 .info {
   color:#003366
 }
-ul .menu {
-  list-style-type: none;
-}
 .menu li a{
   float: left;
   color: #003366;
