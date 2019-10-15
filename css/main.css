@@ -10,3 +10,25 @@ h1 {
 .info {
   color:#003366
 }
+ul#menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #888888;
+}
+#menu li a{
+  float: left;
+  color: #003366;
+}
+
+#menu li a {
+  text-align: center;
+  text-decoration: none;
+}
+li a:hover {
+  color:red
+}
+li a:active {
+  color:blue
+}
