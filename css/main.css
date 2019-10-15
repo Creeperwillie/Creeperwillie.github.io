@@ -25,10 +25,12 @@ ul#menu {
 #menu li a {
   text-align: center;
   text-decoration: none;
+    padding: 16px;
+  display: block;
 }
 li a:hover {
-  color:red;
+  color:#04F2FD;
 }
 li a:active {
-  color:blue;
+  color:#290673;
 }
