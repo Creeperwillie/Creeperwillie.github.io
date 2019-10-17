@@ -25,4 +25,7 @@ a {
 }
 .menu { 
   list-style-type: none;
+  float:left;
+  padding:16px;
+  list-style:none;
 }
