@@ -23,6 +23,6 @@ h1 {
 a {
   text-decoration:none;
 }
-#menu { 
+.menu { 
   list-style-type: none;
 }
