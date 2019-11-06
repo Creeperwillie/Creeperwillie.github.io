@@ -1,3 +1,22 @@
 body {
 background-color:red;
 }
+a:hover {
+  background-color: #111111;
+}
+  a:visited { 
+    color: purple; 
+  }
+  
+  a:active {
+  color: green;
+}
+a {
+  text-decoration:none;
+}
+.menu { 
+  list-style-type: none;
+  float:left;
+  padding:16px;
+  list-style:none;
+}
