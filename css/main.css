@@ -46,3 +46,7 @@ a:hover {
   a:active {
   color: green;
 }
+hr {
+  height:2px;
+  background-color:black;
+}
