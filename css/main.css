@@ -1,15 +1,3 @@
-body {
-  background-color: #8db9c7
-} 
-h1 {
-  font-style:Verdana;
-}
-#quote{
-  font-style:Times New Roman;
-}
-.info {
-  color:#003366
-}
   a:hover {
   background-color: #111111;
 }
