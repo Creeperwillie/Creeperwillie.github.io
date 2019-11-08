@@ -1,13 +1,7 @@
   a:hover {
   background-color: #111111;
 }
-  a:visited { 
-    color: purple; 
-  }
-  
-  a:active {
-  color: green;
-}
+ 
 a {
   text-decoration:none;
 }
@@ -42,4 +36,13 @@ a.menu {
   text-decoration: none;
   font-weight: 920;
 }
-
+a:hover {
+  background-color: #111111;
+}
+  a:visited { 
+    color: purple; 
+  }
+  
+  a:active {
+  color: green;
+}
