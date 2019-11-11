@@ -1,6 +1,15 @@
 body {
 background-color:white;
 }
-.menu{
+
+ul.menu{
   background-color:#004a8d;
 }
+li.menu{
+  background-color:#004a8d;
+}
+a.menu{
+  background-color:#004a8d;
+  color:white;
+}
+
