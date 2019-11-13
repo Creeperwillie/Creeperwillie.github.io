@@ -1,3 +1,13 @@
+@keyframes anim1 {
+  0% {font-size:100%;}
+  50% { font-size:200%;}
+  100% { font-size:100%;}
+}
+@keyframes op1 {
+  from {opacity:0%;}
+  to {opacity:100%;}
+}
+    
 body {
 background-color:white;
 }
@@ -14,5 +24,22 @@ a.menu{
 }
 h1 {
   color:#4a74bb;
+  animation: anim1 2s infinite;
 }
+iframe:hover {
+  animation-name:op1;
+  animation-duration:500s;
+  animation-iteration-count:1;
+
+}
+iframe {
+  opacity:0;
+}
+@keyframes op1{
+  0%{opacity:0;}
+  0.1%{opacity:1;}
+  100%{opacity:0;}
+}
+
+
 
