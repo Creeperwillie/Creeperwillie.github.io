@@ -1,6 +1,6 @@
 @keyframes anim1 {
   0% {color:#4a74bb;}
-  50% {color:#003366;}
+  50% {color:black;}
   100% {color:#4a74bb;}
 }
 @keyframes op1 {
