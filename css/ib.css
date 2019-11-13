@@ -1,7 +1,7 @@
 @keyframes anim1 {
-  0% {font-style:italic; font-weight: 800}
-  50% {font-weight:bold;}
-  100% {font-style:italic; font-weight: 800;}
+  0% {color:#4a74bb;}
+  50% {color:#003366;}
+  100% {color:#4a74bb;}
 }
 @keyframes op1 {
   from {opacity:0%;}
@@ -24,7 +24,7 @@ a.menu{
 }
 h1 {
   color:#4a74bb;
-  animation: anim1 1s infinite;
+  animation: anim1 5s infinite;
 }
 iframe:hover {
   animation-name:op1;
