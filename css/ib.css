@@ -1,7 +1,7 @@
 @keyframes anim1 {
-  0% {font-size:100%;}
-  50% { font-size:125%;}
-  100% { font-size:100%;}
+  0% {font-style:italic;font-style:bold;}
+  50% { font-style:bold;}
+  100% { font-style:italic;font-style:bold;}
 }
 @keyframes op1 {
   from {opacity:0%;}
