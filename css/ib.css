@@ -38,6 +38,7 @@ iframe {
 @keyframes op1{
   0%{opacity:0;}
   0.1%{opacity:1;}
+  99.9%{opacity:1;}
   100%{opacity:0;}
 }
 
