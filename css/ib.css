@@ -28,7 +28,7 @@ h1 {
 }
 iframe:hover {
   animation-name:op1;
-  animation-duration:500s;
+  animation-duration:10s;
   animation-iteration-count:1;
 
 }
