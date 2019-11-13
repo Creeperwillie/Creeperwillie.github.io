@@ -41,6 +41,19 @@ iframe {
   99.9%{opacity:1;}
   100%{opacity:0;}
 }
+/** The next few are in order of paragraphs **/
+#quote {
+  font-style:italic;
+}
+.about {
+  
+}
+.structure {
+  
+}
+.oppportunities {
+  
+}
 
 
 
