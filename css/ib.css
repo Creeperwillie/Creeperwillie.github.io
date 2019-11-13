@@ -24,11 +24,11 @@ a.menu{
 }
 h1 {
   color:#4a74bb;
-  animation: anim1 10s infinite;
+  animation: anim1 1s infinite;
 }
 iframe:hover {
   animation-name:op1;
-  animation-duration:10s;
+  animation-duration:500s;
   animation-iteration-count:1;
 
 }
