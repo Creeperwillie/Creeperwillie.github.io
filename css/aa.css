@@ -15,9 +15,10 @@ h1 {
 a.menu {
   color:#3399ff;
 } 
-a:active {
-  color:#2f548f;
-}
+
 a:hover {
   color:#1500ff
+}
+a:active {
+  color:#2f548f;
 }
