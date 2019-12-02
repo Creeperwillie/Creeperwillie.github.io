@@ -16,3 +16,6 @@ li.menu {
 a.menu {
   color:#3399ff;
 }
+a:active {
+  color:#2f548f;
+}
