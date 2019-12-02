@@ -10,13 +10,11 @@ h1 {
 .info {
   color:#003366
 }
-/**
-li.menu {
- color:#3399ff;
-}
+
+
 a.menu {
   color:#3399ff;
-} **/
+} 
 a:active {
   color:#2f548f;
 }
