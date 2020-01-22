@@ -1,4 +1,7 @@
-for(var i = 2; i < 257; i=i*2){
-  
-  document.write("NumCount is "+ i +"<br/>");
+function myLoop(){
+var end = document.getElementById("endLoop").value;
+for(var i = 0; i<= end; i++)
+  {
+    document.write("<p>"+ i + "</p>")
+  }
 }
