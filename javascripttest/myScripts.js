@@ -7,7 +7,7 @@ var count = document.getElementById("countLoop").value;
   end = Number(end);
   count = Number(count);
   
-for(var i = start; i <= end; i+= count)
+for(var i = start; i <= end; i = i + count)
   {
     document.write("<p>"+ i + "</p>")
   }
